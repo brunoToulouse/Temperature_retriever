@@ -100,7 +100,7 @@ const char index_html[] PROGMEM = R"rawliteral(
   </head>
   <body onload="getdata()">
     <div class="wifi-form">
-      <h1>Configuration Module de Puissance</h1>
+      <h1>Configuration capteur de Temperature</h1>
       <label for="idesp">ID EQUIPEMENT</label>
       <input id="idesp" class="input" type="number" maxlength="1">
       <label for="ssid">WIFI ID (SSID)</label>
